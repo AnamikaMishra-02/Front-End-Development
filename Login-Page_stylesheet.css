@@ -1,0 +1,38 @@
+body {
+  background-image: url(log.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+
+.image {
+  height: 100px;
+  width : 100px;
+}
+
+.div1 {
+  margin : 100px;
+  padding : 50px;
+  text-align: left;
+  height: 500px;
+  width: 600px;
+  border: 1px solid ;
+   background-color: white;
+}
+ .button{
+   margin :0 0 10px 0;
+   width: 300px;
+   height: 40px;
+ }
+
+ .logo{
+   margin: 20px 10px 0 0;
+
+   height: 30px;
+   width: 30px;
+ }
+
+
+.submit{
+  margin: 10px 0;
+}
